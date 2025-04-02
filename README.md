@@ -1,7 +1,7 @@
 # Insurance System Using OOP Concepts
 
 ## 📌 Overview
-This project is an **Insurance Management System** developed using **Java and Object-Oriented Programming (OOP) principles**. It models an insurance system where employees, departments, and beneficiary family members are managed through different classes. **It's my first task by the manager as a full-stack developer intern**. 
+This project is an **Insurance Management System** developed using **Java and Object-Oriented Programming (OOP) principles**. It models an insurance system where employees, departments, and beneficiary family members are managed through different classes. **It's my first task by the manager as a full-stack developer intern during summer semester internship**. 
 
 ## 📁 Project Structure
 ```plaintext
